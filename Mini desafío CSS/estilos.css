@@ -1,0 +1,29 @@
+.imagen{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration:underline;
+    color:red;
+}
+footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: turquoise;
+}
+body{
+    background-color: rgb(209, 255, 249);
+    margin:10%
+}
+.roja{
+    text-transform: uppercase;
+    text-decoration:underline;
+    color:red;
+}
+
